@@ -69,5 +69,4 @@ Reprodução do cenário do enunciado (840 / 240 / 120 imagens) a partir do *COV
 - Devlin et al. (2019). *BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.* NAACL.
 - Miyato & Koyama (2018). *cGANs with Projection Discriminator.* ICLR.
 - Zhao et al. (2020). *Differentiable Augmentation for Data-Efficient GAN Training.* NeurIPS.
-- Nour & Tariq (2023). *Scientific Reports*, 13. https://www.nature.com/articles/s41598-023-37743-4
 - DeGrave, Janizek & Lee (2021). *AI for radiographic COVID-19 detection selects shortcuts over signal.* Nature Machine Intelligence.
